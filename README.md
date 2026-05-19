@@ -39,7 +39,7 @@ Repositório **público** só de apresentação. O código-fonte dos produtos fi
 | Projeto | Descrição | Repositório |
 |---------|-----------|-------------|
 | **Rufino** | *(descreva em 1 linha)* | Privado |
-| **FloodGuard** | *(descreva em 1 linha)* | [floodguard](https://github.com/Rufinoha/floodguard) |
+| **FleedGuard** | *(descreva em 1 linha)* | [fleedguard](https://github.com/Rufinoha/fleedguard) |
 | **Checklist** | *(descreva em 1 linha)* | [checklist](https://github.com/Rufinoha/checklist) |
 | **H74** | *(descreva em 1 linha)* | [h74](https://github.com/Rufinoha/h74) |
 
